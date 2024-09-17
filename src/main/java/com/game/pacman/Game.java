@@ -1,3 +1,6 @@
+LALALALAL
+
+
 package com.game.pacman;
 
 import java.awt.Graphics;
